@@ -43,11 +43,7 @@ const TodaysActivity = () => {
           20 Minutes, Targeting Chest, Shoulders, and Triceps
         </Text>
         <Text className="text-gray-300 text-base mb-2">With just 20 minutes, you can strengthen your chest and tone your upper body.</Text>
-<<<<<<< HEAD
-          <View className='bg-gray-700 rounded-xl w-full py-3 px-3 mt-5 mb-5'>
-=======
           <View className='bg-gray-700 rounded-xl w-full py-3 px-3 mt-2 mb-5'>
->>>>>>> 49ea983 (First Commit)
           <View className='flex-row'>
                   <Icons
                       name="time"
@@ -79,12 +75,7 @@ const TodaysActivity = () => {
               </View>
             
           </View>
-
-<<<<<<< HEAD
-          <TouchableOpacity className='bg-white w-full h-12 rounded-full flex items-center justify-center mb-6'>
-=======
           <TouchableOpacity className='bg-green-600 w-full h-12 rounded-full flex items-center justify-center mb-8'>
->>>>>>> 49ea983 (First Commit)
             <Text className='text-gray-950 font-rmedium text-lg'>Start Workout</Text>
           </TouchableOpacity>
       </View>
