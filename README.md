@@ -18,14 +18,20 @@ CoreQuest Mobile App.
 * AppWrite
 * HTML, CSS and JS
 
+# Screen Record of the App
+* https://www.youtube.com/watch?v=tQ0oIi7yNEI
+
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/OnboardingScreen.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/SignUp.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/SignIn.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/HomeTab.jpg">  
+<img src="assets/images/SearchTab.jpg">
+<img src="assets/images/ActivityTab.jpg">
+<img src="assets/images/ProfileTab.jpg">

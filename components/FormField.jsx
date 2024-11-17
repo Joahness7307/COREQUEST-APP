@@ -22,10 +22,7 @@ const FormField = ({title, value, placeholder, handleChangeText, otherStyles, ..
                 <TouchableOpacity>
                     <Image
                         source={!showPassword ? icons.eye : icons.hiddenEye}
-<<<<<<< HEAD
-=======
                         tintColor="white"
->>>>>>> 49ea983 (First Commit)
                         className="w-6 h-6"
                         resizeMode='contain'
                     />
