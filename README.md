@@ -2,10 +2,10 @@
 CoreQuest Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Accurate Tracking
+* Personalized Workout Plans
+* User-Friendly Interface
+* Motivational Tools
 
 # Course Overview
 * Basic React Native Components
